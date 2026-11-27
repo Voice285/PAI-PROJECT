@@ -1,1 +1,2 @@
-print("yellow")
+print("pink")
+print("pai")
